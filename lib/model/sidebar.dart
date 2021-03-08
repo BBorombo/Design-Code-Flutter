@@ -14,7 +14,7 @@ var sidebarItem = [
     background: const LinearGradient(
       begin: Alignment.topLeft,
       end: Alignment.bottomRight,
-      colors: [
+      colors: const [
         const Color(0xFF00AEFF),
         const Color(0xFF0076FF),
       ],
@@ -26,7 +26,7 @@ var sidebarItem = [
     background: const LinearGradient(
       begin: Alignment.topLeft,
       end: Alignment.bottomRight,
-      colors: [
+      colors: const [
         const Color(0xFFFA7D75),
         const Color(0xFFC23D61),
       ],
@@ -38,7 +38,7 @@ var sidebarItem = [
     background: const LinearGradient(
       begin: Alignment.topLeft,
       end: Alignment.bottomRight,
-      colors: [
+      colors: const [
         const Color(0xFFFAD64A),
         const Color(0xFFEA880F),
       ],
@@ -50,7 +50,7 @@ var sidebarItem = [
     background: const LinearGradient(
       begin: Alignment.topLeft,
       end: Alignment.bottomRight,
-      colors: [
+      colors: const [
         const Color(0xFF4E62CC),
         const Color(0xFF202A78),
       ],
